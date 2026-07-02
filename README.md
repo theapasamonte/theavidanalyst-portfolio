@@ -1,4 +1,4 @@
-# Thea | Business Analyst
+# Ma. Atheagem Pasamonte | Business Analyst
 
 **Turning vague ideas into developer-ready specs.**
 
